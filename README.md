@@ -6,8 +6,9 @@ The objective of this case study is to demonstrate the investigation process, ro
 
 ---
 
-## Blog Articles
-
+## 📌 **Purpose of the Repository**
+> [!IMPORTANT]
+> 
 ### 1. Website Incident Analysis
 
 **File:**
