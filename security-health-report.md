@@ -1,5 +1,5 @@
 # Security & Health Check Report
-**Server:** ip-172-31-21-67 | **Date:** 2026-07-15
+**Date:** 2026-07-15
 
 ---
 
@@ -33,7 +33,7 @@ sudo ufw delete allow 22/tcp
 sudo ufw allow from 27.107.88.190 to any port 22
 ```
 
-**Result:** Port 22 now restricted to `27.107.88.190` only. ✅
+**Result:** Port 22 now restricted to `27.101.18.180` only. ✅
 
 ---
 
