@@ -139,7 +139,7 @@ sudo ufw enable
 | 80 (HTTP) | TCP | 0.0.0.0/0 | ✅ Expected |
 | 443 (HTTPS) | TCP | 0.0.0.0/0 | ✅ Expected |
 | 8080 | TCP | 0.0.0.0/0 | ⚠️ Open to all |
-| 3306 (MySQL) | TCP | 27.107.88.190/32 | ✅ Your IP only |
+| 3306 (MySQL) | TCP | 27.101.18.180/32 | ✅ Your IP only |
 
 - MySQL port 3306 is restricted to your IP only (`/32` = single IP) ✅
 - SSH port 22 is open to the world — recommended to restrict to your IP
